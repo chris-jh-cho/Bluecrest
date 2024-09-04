@@ -2,6 +2,18 @@
 
 ### Python Coding Assessment: Equity Pair Trading Backtester
 
+---
+
+**Getting Started:**
+
+Please check the Python version in runtime.txt and the package requirements in requirements.txt. 
+
+Solutions to tasks 1 to 4 can be found in the Python script named pairs_trading.py. 
+
+The solution to task 5 can be found in the Jupyter notebook named pairs_trading.ipynb.
+
+---
+
 **Task 1:**
 
 Using Yahoo Finance, or another source of your choosing, download end of day data for the components of the S&P 500, Russell 2000, and/or Nasdaq 100 (as well as the performance of the relevant index/indices) to a local database.
