@@ -1,6 +1,4 @@
-# Bluecrest
-
-### Python Coding Assessment: Equity Pair Trading Backtester
+# Python Coding Assessment: Equity Pair Trading Backtester
 
 ---
 
